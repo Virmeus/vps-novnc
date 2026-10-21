@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://island-rna-pushed-duck.trycloudflare.com/vnc.html
+URL       : https://wizard-terrorists-imports-detroit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 09:49:21
+Created   : 2026-10-21 14:51:10
 =======================================================
